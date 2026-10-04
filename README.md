@@ -71,7 +71,7 @@ AgentGuard/
 
 
 # Clone the repository
-git clone [https://github.com/DevKumar57-67/AgentGuard.git](https://github.com/DevKumar57-67/AgentGuard.git)
+
 cd AgentGuard
 
 # Create virtual environment
